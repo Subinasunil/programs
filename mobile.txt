@@ -1,0 +1,3 @@
+a52,samsung,32000,5g,led
+a30,samsung,36000,5g,lcd
+note11,redmi,17000,4g,led
